@@ -1,1 +1,0 @@
-# İlk Web Sayfamızı Oluşturmak
