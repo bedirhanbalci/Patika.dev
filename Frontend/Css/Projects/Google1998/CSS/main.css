@@ -1,0 +1,50 @@
+.body {
+  padding: 0%;
+  margin: 0;
+}
+
+.container {
+  width: 2100px;
+  /* background-color: blueviolet; */
+  margin: auto;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.box {
+  width: 2100px;
+  height: 100px;
+  margin: auto;
+  margin-bottom: 2px;
+}
+
+.color-grey {
+  background-color: #dcdcdc81;
+}
+
+.color-blue {
+  background-color: rgba(134, 245, 239, 0.767);
+}
+
+.card {
+  width: 33.2%;
+  height: 100px;
+  margin: auto;
+  margin-bottom: 2px;
+  float: left;
+  margin-left: 2px;
+}
+
+/* width: 800px;
+height: 100px;
+margin: auto;
+float: left;
+margin-left: 2px ; */
+
+.box2 {
+  width: 350px;
+  height: 20px;
+  margin: auto;
+
+  background-color: white;
+}
