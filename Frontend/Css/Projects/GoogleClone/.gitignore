@@ -1,0 +1,6 @@
+# img
+*.jpg
+*.png
+*.svg
+# svg
+img/
